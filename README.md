@@ -1,12 +1,11 @@
-# Hi, I'm Mehul Prajapati 👋
+### Hi there, I'm Mehul 👋
 
-**A Data Analyst and Python Programmer** — turning raw data into clear, actionable insights.
+BTech Computer Science student (2026) from Prayagraj, India.
 
-- 🔭 Currently building Power BI dashboards — HR Analytics, Insurance Analytics, Sales Analytics
-- 🌱 Learning advanced Python, Machine Learning, and SQL optimization
-- 💬 Ask me about **Power BI, Python, Data Analysis, Excel**
-- 📫 Reach me at: **mehul60704@gmail.com**
-- 📍 Prayagraj, India
+I build dashboards and analyze data to help businesses make better decisions.
+3 live Power BI projects — HR attrition, insurance KPIs, and sales performance.
+
+🟢 **Open to Data Analyst internships — available immediately**
 
 ---
 
