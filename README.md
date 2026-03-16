@@ -6,7 +6,7 @@
 - 🌱 Learning advanced Python, Machine Learning, and SQL optimization
 - 💬 Ask me about **Power BI, Python, Data Analysis, Excel**
 - 📫 Reach me at: **mehul60704@gmail.com**
-- 📍 Prayagraj, India
+- 📍 Uttar-Pradesh, India
 
 ---
 
