@@ -1,11 +1,11 @@
 ### Hi there, I'm Mehul 👋
 
-BTech Computer Science student (2026) from Prayagraj, India.
+BTech Computer Science student (2026) from Uttar-Pradesh, India.
 
 I build dashboards and analyze data to help businesses make better decisions.
-3 live Power BI projects — HR attrition, insurance KPIs, and sales performance.
+3 live Power BI projects — India Hourly Electricity Consumption Forecasting System, Business-Anomaly-Revenue-Leakage-Analysis, HR attrition, insurance KPIs, and sales performance.
 
-🟢 **Open to Data Analyst internships — available immediately**
+🟢 **Open to Data Analyst Jobs — available immediately**
 
 ---
 
