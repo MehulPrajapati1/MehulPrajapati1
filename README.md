@@ -3,7 +3,7 @@
 BTech Computer Science student (2026) from Uttar-Pradesh, India.
 
 I build dashboards and analyze data to help businesses make better decisions.
-3 live Power BI projects — India Hourly Electricity Consumption Forecasting System, Business-Anomaly-Revenue-Leakage-Analysis, HR attrition, insurance KPIs, and sales performance.
+3 Main projects are — India Hourly Electricity Consumption Forecasting System, Business-Anomaly-Revenue-Leakage-Analysis, and insurance KPIs.
 
 🟢 **Open to Data Analyst Jobs — available immediately**
 
